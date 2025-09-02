@@ -1,0 +1,5 @@
+{
+  "name": "Windows 11 Clone",
+  "description": "A web-based replica of the Windows 11 desktop environment, showcasing a functional taskbar, start menu, and draggable, resizable application windows, built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
